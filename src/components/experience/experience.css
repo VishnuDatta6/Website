@@ -1,0 +1,23 @@
+section {
+    text-align: center;
+    font-weight: 400;
+    font-size: xx-large;
+}
+.experience_content {
+    margin: auto;
+    text-align: left;
+    font-weight: lighter;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 80%;
+    padding: 1% 5% 1% 5%;
+    font-size: medium;
+}
+
+.experience_content ul li {
+    list-style-type: circle;
+}
+
+.experience_content:hover {
+    background-color: rgba(129, 186, 183, 0.703);
+}

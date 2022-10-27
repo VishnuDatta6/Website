@@ -1,0 +1,42 @@
+section {
+    text-align: center;
+}
+
+section h5 {
+    font-size: medium;
+}
+
+section h2 {
+    font-size:xx-large;
+    font-weight: 500;
+}
+
+.RHL,.Psummary,.Education,.Tskills {
+    background: rgb(218, 148, 19);
+    color: white;
+    margin: 0.5%;
+    text-align: left;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    width: 80%;
+    padding: 1% 5% 1% 5%;
+}
+
+.Psummary:hover,.Tskills:hover, .RHL:hover, .Education:hover {
+    background: teal;
+}
+
+.Tskills_content {
+    display:none;
+    font-size: 2rem;
+    padding-top: 2px;
+    vertical-align: middle;
+}
+
+.RHL_content, .Psummary_content, .Education_content {
+    display: none;
+}
+
+ul {
+    list-style-type: circle;
+}

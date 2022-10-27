@@ -1,0 +1,88 @@
+section {
+    text-align: center;
+    gap: 1rem;
+}
+
+.Projects, .Certifications {
+    font-weight: lighter;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: left;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 80%;
+    padding: 1% 5% 1% 5%;
+}
+
+.Projects p {
+    font-size: medium;
+}
+
+.Certifications ul li {
+    list-style-type: circle;
+    font-size: medium;
+}
+
+a {
+    font-size: 20px;
+}
+ .Logos {
+    font-weight: bold;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 80%;
+    padding: 1% 5% 1% 5%;
+}
+
+
+.Logo_content {
+    width: 40%;
+    font-weight: normal;
+}
+
+.avatar {
+    width: 15rem;
+    overflow: hidden;
+    border-radius: 20%;
+    margin: 0 auto 1rem;
+    border: 0.4rem solid teal;
+}
+
+.Logo_info {
+    background: teal;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 2rem;
+    user-select: none;
+    width: 50%;
+    margin: auto;
+}
+
+.Logo_requirements {
+    color: var(--color-light);
+    font-weight: 300;
+    display: block;
+    width: 80%;
+    margin: 0.8rem auto 0;
+    padding-bottom: 4rem;
+}
+
+/*====================Media Queries (Medium Devices)=========*/
+@media  screen and (max-width: 1024px) {
+    .Logo_content {
+        width: 60%;
+    }
+}
+
+/*====================Media Queries (Small Devices)==============*/
+@media  screen and (max-width: 600px) {
+    .Logo_content {
+        width: var(--container-width-sm);
+    }
+    .Logo_requirements {
+        width: var(--container-width-sm);
+    }
+}
