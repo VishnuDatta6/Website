@@ -9,6 +9,11 @@ header {
     position: relative;
 }
 
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
 /*====================== CTA =============== */
 
 .cta {

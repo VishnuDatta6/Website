@@ -36,7 +36,7 @@ const About = () => {
       <strong>Professional Summary   </strong> <MdOutlineArrowForwardIos/> <br/>
       <div className='Psummary_content' id='Psummary_content'>
         <ul>
-        <li>Having 1.9 years of experience in web development using HTML5, CSS3, JavaScript and React in Tata Elxsi.</li>
+        <li>Having 2 years of experience in web development using HTML5, CSS3, JavaScript and React in Tata Elxsi.</li>
         <li>Experience in writing simple SQL queries.</li>
         <li>Proficient in Adobe Illustrator.</li>
         <li>Good knowledge in SDLC and server-side programming with Node.js</li>
