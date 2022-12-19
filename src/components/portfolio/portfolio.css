@@ -43,7 +43,7 @@ a {
 }
 
 .avatar {
-    width: 15rem;
+    width: 70%;
     overflow: hidden;
     border-radius: 20%;
     margin: 0 auto 1rem;
@@ -63,6 +63,7 @@ a {
 
 .Logo_requirements {
     color: var(--color-light);
+    font-size: 70%;
     font-weight: 300;
     display: block;
     width: 80%;
