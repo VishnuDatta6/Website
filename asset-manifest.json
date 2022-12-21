@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.a4905de6.css",
+    "main.js": "/Website/static/js/main.3798cd10.js",
+    "static/media/carevisor-covid-19.jpg": "/Website/static/media/carevisor-covid-19.53958251f9d1a1314c1e.jpg",
+    "static/media/insta.ly-app-icon.jpg": "/Website/static/media/insta.ly-app-icon.92c91e02e72ab1ba83b3.jpg",
+    "static/media/duck.jpg": "/Website/static/media/duck.84989b73d8ec144b6769.jpg",
+    "static/media/virtu-shield.jpg": "/Website/static/media/virtu-shield.9f7725e728f16f75a66b.jpg",
+    "static/media/w copy.jpg": "/Website/static/media/w copy.9cbf26c53c60015c1f45.jpg",
+    "index.html": "/Website/index.html",
+    "main.a4905de6.css.map": "/Website/static/css/main.a4905de6.css.map",
+    "main.3798cd10.js.map": "/Website/static/js/main.3798cd10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4905de6.css",
+    "static/js/main.3798cd10.js"
+  ]
+}
